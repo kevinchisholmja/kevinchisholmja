@@ -15,6 +15,8 @@ My work focuses on practical systems: web applications, SaaS architecture, netwo
 - Automation scripts and developer tooling
 - Documentation-driven engineering
 
+---
+
 ## Projects
 
 ### SaaS and Web Applications
@@ -28,6 +30,28 @@ I document and build systems around network segmentation, monitoring, hardening,
 ### Automation and Developer Tools
 
 I create scripts, templates, and utilities that reduce repetitive work and make technical processes easier to repeat, audit, and improve.
+
+## Featured Projects
+
+### [Ledger](https://github.com/kevinchisholmja/ledger)
+
+A personal finance tracker that lets users send receipt photos to a Telegram bot, extracts expense details using Claude Vision, stores the data, and allows review through a PWA dashboard.
+
+**Stack:** Next.js, TypeScript, Tailwind, Drizzle ORM, Supabase, Anthropic Claude, Telegram Bot API
+
+### [UntilDone](https://github.com/kevinchisholmja/untildone-app)
+
+A persistent reminder application focused on helping users track tasks that should not disappear until they are actually completed.
+
+**Stack:** TypeScript
+
+### [MBOX Converter and Viewer](https://github.com/kevinchisholmja/mbox_converter_and_viewer)
+
+A Python utility for working with exported email archives, converting or viewing MBOX data for review and analysis.
+
+**Stack:** Python
+
+---
 
 ## Why This Exists
 
